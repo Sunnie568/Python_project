@@ -1,4 +1,4 @@
-# Python_project
+# Python project
 
 The Iris dataset, first introduced by the British statistician and biologist **Ronald A. Fisher (1936)**, is one of the most widely used benchmark datasets in statistics, machine learning, and pattern recognition. It contains 150 observations of iris flowers, equally divided among three species: _Iris-setosa_, _Iris-versicolor_, and _Iris-virginica_. Each observation is described by four numerical features: sepal length, sepal width, petal length, and petal width.
 
